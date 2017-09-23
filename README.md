@@ -35,7 +35,7 @@ Open it and copy the following hello manifest info under the modules array as th
         }
     ],
     "version": "0.0.1"
-}
+},
 ```
 
 Refer to the the completed example in this repo.
