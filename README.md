@@ -43,7 +43,7 @@ Refer to the the completed example in this repo.
 
 Copy this modified manifest back to the Ux folder.
 
-Copy the hello folder in this repo to **C:\ProgramData\Server Management Experience\Ux\modules** folder.
+Copy the html folder in this repo to **C:\ProgramData\Server Management Experience\Ux\modules** folder.
 
 That's it.
 
